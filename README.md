@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gaurav
+- 👀 I’m interested in Angular & NodeJS
+- 🌱 I’m currently learning Node
+- 📫 How to reach me thepixelwriter@gmail.com
